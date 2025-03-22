@@ -1,5 +1,4 @@
 <h1 align="center">Hi👋, I'm Keerthan Ghodiwal</h1>
-<h3 align="center">Aspiring FullStack Developer</h3>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=3BF71D&center=true&width=450&lines=Hello%2C+World!+%F0%9F%91%8B;Open+Source+Contributor!+%F0%9F%9A%80;AI%2FML+Enthusiast!+%F0%9F%92%BB;Web+Developer!+%F0%9F%8E%AF;Android+Developer!+%F0%9F%93%B1" alt="Typing SVG" />
 </p>
