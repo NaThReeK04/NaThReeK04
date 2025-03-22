@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=3BF71D&width=435&lines=Welcome+to+my+GitHub+profile!!;Open+Source+Enthusiast!!%F0%9F%9A%80;Always+Learning%F0%9F%93%9A%F0%9F%8C%B1" alt="Typing SVG" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NaThReeK04&label=Profile%20views&color=0e75b6&style=flat" alt="NaThReeK04" /> </p>
 
-# 💫 About Me:🌌 I’m currently working on NLP and LLM<br>👥 I’m looking to collaborate on AI/ML research projects or real-world applications<br>🤝 I’m looking for help with optimizing LLM performance and deployment strategies<br>🌱 I’m currently learning AI/ML, including deep learning and reinforcement learning<br>💬 Ask me about NLP, cloud security, IoT-based projects, or system optimization<br>⚡ Fun fact: By day, I craft code. By night, I conquer games. 💻🎮
+# 💫 About Me:<br>🌌 I’m currently working on NLP and LLM<br>👥 I’m looking to collaborate on AI/ML research projects or real-world applications<br>🤝 I’m looking for help with optimizing LLM performance and deployment strategies<br>🌱 I’m currently learning AI/ML, including deep learning and reinforcement learning<br>💬 Ask me about NLP, cloud security, IoT-based projects, or system optimization<br>⚡ Fun fact: By day, I craft code. By night, I conquer games. 💻🎮
 
 
 ## 🌐 Socials:
