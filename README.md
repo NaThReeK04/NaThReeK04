@@ -26,19 +26,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=NaThReeK04&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=NaThReeK04&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NaThReeK04&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<h2 align="center">Leetcode Info</h2>
 
-<p align="center">
-  <a href="https://leetcode.com/NaThReeK04/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="Leetcode 100" height="100" width="100" /></a>
-  <a href="https://leetcode.com/NaThReeK04/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="Leetcode 50" height="100" width="100" /></a>
-  <a href="https://leetcode.com/NaThReeK04/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" alt="Pandas" height="100" width="100" /></a>
-</p>
-
-<h3 align="center">🔥 Leetcode Statistics 🔥</h3>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/NaThReeK04?theme=dark&font=Nunito&ext=contest" alt="Leetcode Contest Stats" />
-</p>
-
+# 🔥 Leetcode Info
+![](https://leetcard.jacoblin.cool/NaThReeK04?theme=dark&font=Nunito&ext=contest)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
