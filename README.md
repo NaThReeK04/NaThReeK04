@@ -14,7 +14,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NaThReeK04&label=Profile%20views&color=0e75b6&style=flat" alt="NaThReeK04" /> </p>
 
 # 💫 About Me:
- 🌌 I’m currently working on NLP and LLM<br>👥 I’m looking to collaborate on AI/ML research projects or real-world applications<br>🤝 I’m looking for help with optimizing LLM performance and deployment strategies<br>🌱 I’m currently learning AI/ML, including deep learning and reinforcement learning<br>💬 Ask me about NLP, cloud security, IoT-based projects, or system optimization<br>⚡ Fun fact: By day, I craft code. By night, I conquer games. 💻🎮
+ 🌌 I’m currently working on NLP and LLMs<br>👥 I’m looking to collaborate on AI/ML research projects or real-world applications<br>🤝 I’m looking for help with optimizing LLM performance and deployment strategies<br>🌱 I’m currently learning AI/ML, including deep learning and reinforcement learning<br>💬 Ask me about NLP, cloud security, IoT-based projects, or system optimization<br>⚡ Fun fact: By day, I craft code. By night, I conquer games. 💻🎮
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Keerthan_ghodiwal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/keerthan-ghodiwal-3b9b23288) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Techy4ever) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keerthanghodiwal1304@gmail.com) 
