@@ -1,6 +1,16 @@
 <h1 align="center">Hi👋, I'm Keerthan Ghodiwal</h1>
 <h3 align="center">Aspiring FullStack Developer</h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=3BF71D&width=435&lines=Welcome+to+my+GitHub+profile!!;Open+Source+Enthusiast!!%F0%9F%9A%80;Always+Learning%F0%9F%93%9A%F0%9F%8C%B1" alt="Typing SVG" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=3BF71D&center=true&width=450&lines=Hello%2C+World!+%F0%9F%91%8B;Open+Source+Contributor!+%F0%9F%9A%80;AI%2FML+Enthusiast!+%F0%9F%92%BB;Web+Developer!+%F0%9F%8E%AF;Always+Learning!+%F0%9F%93%9A" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-%E2%9C%94-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/AI%2FML-%F0%9F%92%BB-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web%20Dev-%F0%9F%8E%AF-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Always%20Learning-%F0%9F%93%9A-purple?style=for-the-badge" />
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NaThReeK04&label=Profile%20views&color=0e75b6&style=flat" alt="NaThReeK04" /> </p>
 
 # 💫 About Me:
