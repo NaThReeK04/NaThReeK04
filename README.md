@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Keerthan Ghodiwal</h1>
 <h3 align="center">Code. Deploy. Learn. Repeat.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nathreek04&label=Profile%20views&color=0e75b6&style=flat" alt="nathreek04" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nathreek04" alt="nathreek04" /></a> </p>
 
 - 🔭 I’m currently working on **Backend Development**
